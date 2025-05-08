@@ -1,5 +1,8 @@
 # Full Stack Professional
 
+# Followed Tutorial: Spring Boot, React.js & AWS S3 Full Stack Development
+Amigoscode https://www.youtube.com/watch?v=9i1gQ7w2V24&t=96s&ab_channel=Amigoscode
+
 Enrol [here](https://amigoscode.com/courses/full-stack-professional) with over *50 Hours* of Content with Plenty of Exercises
 
 ![Curriculum](https://user-images.githubusercontent.com/40702606/228275106-73076517-ff4f-40e0-a993-4d05d5a2ea77.png)
